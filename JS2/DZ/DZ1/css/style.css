@@ -1,11 +1,15 @@
 .products {
-    padding: 0px;
-    margin: 0px;
-    width: 100%;
-    display: block;
-    padding: 0px;
-    margin: 0px;
+    margin-left: 20px;
+    text-align: left;
+}
+
+.product-item {
+    margin-left: 20px;
+    text-align: left;
     display: inline-block;
+}
 
-
+.btn-cart {
+    margin-left: 950px;
+    text-align: left;
 }
